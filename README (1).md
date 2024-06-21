@@ -1,8 +1,6 @@
 # Terraform One Server example
 
-This folder contains a one server example of a [Terraform](https://www.terraform.io/) file on Google Cloud Platform (GCP).
-
-This Terraform file deploys a single server on Google Cloud Platform (GCP).
+This file contains process to  deploys a single server on Google Cloud Platform (GCP).
 
 ## Requirements
 
@@ -11,8 +9,7 @@ This Terraform file deploys a single server on Google Cloud Platform (GCP).
 * You must have downloaded a Google Cloud Platform credentials file.
 * You must have enabled the Google Compute Engine API.
 * It uses the Terraform Google Cloud Provider that interacts with the many resources supported by Google Cloud Platform (GCP) through its APIs.
-* This code was written for Terraform 0.10.x.
-
+  
 ## Using the code
 
 * Configure your Google Cloud access keys.
