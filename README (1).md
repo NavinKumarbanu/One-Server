@@ -1,4 +1,4 @@
-# Terraform One Server example
+# Terraform One Server 
 
 This file contains process to  deploys a single server on Google Cloud Platform (GCP).
 
